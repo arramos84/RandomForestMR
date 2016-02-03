@@ -1,0 +1,5 @@
+*.jar
+*.class
+Users/
+bin/
+lib/
